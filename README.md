@@ -10,7 +10,7 @@ Copy the plugin folder to your KOReader `plugins` directory.
 Send `/newbot` to [@BotFather](https://t.me/botfather) and follow the instructions to name your bot.  
 BotFather will give you an **API Token**. Save it.  
 Start a chat with your new bot and send any message.  
-Once started the bot chat visit https://api.telegram.org/bot <yourToken> /getUpdates to see the chatID  
+Once started the bot chat visit `https://api.telegram.org/bot<yourToken>/getUpdates` to see the chatID  
 
 ### Configure the plugin  
 In `config.txt` file located in the plugin folder:  
